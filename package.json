@@ -1,0 +1,13 @@
+{
+  "name": "romanian-chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot român cu Oracle Database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "axios": "^1.0.0"
+  }
+}
